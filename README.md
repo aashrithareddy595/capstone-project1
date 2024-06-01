@@ -1,1 +1,52 @@
-# capstone-project1
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Aashritha Reddy</h1>
+    <img src="./aashritha.jpg" height="100" />
+    <h2>Summary</h2>
+    <p>I am a developer and an AI enthusiast. I have a work experience in Java Development. Exploring and learning new things in tech industry.</p>
+    <hr />
+    <h2>Education</h2>
+    <ul>
+        <h3><li>BTech (2022-26)</li></h3>
+        <p>Pursuing my engineering in Computer Science and Engeineering in AI ML at VIT-AP University.</p>
+        <h3><li>Intermediate (2020-22)</li></h3>
+        <p>Studied at Narayana college in Kanuru, Vijayawada.</p>
+        <h3><li>High School (2018-20)</li></h3>
+        <p>Studied at Vishwabharathi E.M. High School, Gudivada.</p>
+    </ul>
+    <hr />
+    <h2>Work Experience</h2>
+    <ul>           
+        <h3><li>Java Development Intern - Oasis Infobyte</h3>   
+        <p>January 2024-February 2024</p>
+        <h4><p>Worked on</p></h4>
+        <ul>
+            <li>ATM Interface</li>
+            <li>Guessing the number game</li>
+        </li>
+        </ul>
+        <h3><li>Documentation Co-Lead - Photography Club VIT-AP</li></h3>
+        <p>March 2024 - Present</p>
+    </ul>
+    <hr />
+    <h2>Skills</h2>
+    <ul>
+        <li>Java</li>
+        <li>Python</li>
+        <li>SQL</li>      
+    </ul>
+    <hr />
+    <h2>Other</h2>
+    <ul>
+        <li><h3><a href="./other/hobbies.html">Hobbies</a></h3></li>
+        <li><h3><a href="./other/contact.html">Contact</a></h3></li>   
+    </ul>
+    <footer>
+        <p>© Aashritha Reddy. All rights reserved.</p>
+    </footer> 
+</body>
+</html>
